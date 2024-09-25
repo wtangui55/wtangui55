@@ -14,7 +14,7 @@ My journey in healthcare analytics has allowed me to work on a wide range of pro
 - **Data Analytics Tools**: Skilled in Python, R, SQL, Jupyter Notebooks, Excel, and Cognos Analytics, enabling me to navigate and analyze data efficiently.
 
 ## 🛠️ Skills
-- **Languages**: Python, R, SQL
+- **Languages**: Python, R, SQL, SAS
 - **Tools**: Excel, Cognos Analytics, Jupyter Noteboooks
 - **Models**: KNN, SVM, Logistic Regression, Linear Regression, Decision Tree, Multipolynomial Regression, Neural Networks
   
